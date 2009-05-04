@@ -2,7 +2,7 @@ h1. Vines
 
 Swing around your code.
 
-h1. How To Install
+h2. How To Install
 
 <pre>
   mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
