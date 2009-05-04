@@ -13,12 +13,12 @@ h1. How To Install
 
 h2. Features
 
-* Select Previous Parenthesis       cmd-(
-* Select Next Parenthesis           cmd-)
-* Find Next String/Symbol           cmd-"
-* Find Previous String/Symbol       cmd-:
-* Select Next Bracket/Brace         cmd-}
-* Select Previous Bracket/Brace     cmd-{
-* Select Tag                        cmd->
+* Select Previous Parenthesis   
+* Select Next Parenthesis       
+* Find Next String/Symbol       
+* Find Previous String/Symbol   
+* Select Next Bracket/Brace     
+* Select Previous Bracket/Brace 
+* Select Tag                    
 
 
